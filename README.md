@@ -1,6 +1,6 @@
 ## Hi there I'm Ioannis Totsikas
 
-🎓 I'm a first-year Software Engineering student at IEK AKMI in Athens, Greece  
+🎓 I'm a second-year Software Engineering student at IEK AKMI in Athens, Greece  
 💻 I'm learning to build websites, apps, and games using modern technologies  
 🎮 Passionate about Game Development and App Development  
 🚀 Currently growing my skills step by step through projects and experimentation
